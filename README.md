@@ -14,3 +14,7 @@
 #STEP 2)running django server at port 8000
 
 -go in the RYD directory and open third terminal and run the following command "python manage.py runserver" 
+
+
+##Import note
+If there is an error saying that there is no model you might have to train the model again by using command "rasa train"
